@@ -1,10 +1,8 @@
 # Alekh Verma
 
-**Ethical Hacker & Cybersecurity Builder**
+**Fortinet FCA Certified Cybersecurity Practitioner | Web Security | OSINT | FortiGate | Secure Systems**
 
-I am Alekh Verma, a cybersecurity learner and developer building my skills in ethical hacking, secure systems, OSINT discipline, Linux workflow, and privacy-first engineering.
-
-My goal is to grow into one of the world’s best ethical hackers by learning deeply, building consistently, and staying within legal and authorized security research boundaries.
+Alekh Verma is a Fortinet FCA Certified Cybersecurity Practitioner from Hathras, Uttar Pradesh, India. He focuses on Web Security, OSINT, OWASP Top 10, FortiGate, secure systems, vulnerability assessment, responsible disclosure, and professional security documentation.
 
 > Breaking limits, not laws.
 > Security is discipline, not decoration.
@@ -14,41 +12,65 @@ My goal is to grow into one of the world’s best ethical hackers by learning de
 ## Official Links
 
 * Official Website: https://alekhverma.vercel.app/
-* Official Profile: https://alekhverma.vercel.app/alekh-verma
+* Who is Alekh Verma: https://alekhverma.vercel.app/who-is-alekh-verma
 * AI Profile: https://alekhverma.vercel.app/ai-profile
-* Cybersecurity Portfolio: https://alekhverma.vercel.app/cybersecurity
+* Cybersecurity Profile: https://alekhverma.vercel.app/alekh-verma-cybersecurity
+* Proof of Work: https://alekhverma.vercel.app/proof-of-work
 * Blog: https://alekhverma.vercel.app/blog
+* Contact: https://alekhverma.vercel.app/contact
 
 ---
 
-## Focus Areas
+## Cybersecurity Focus Areas
 
-* Ethical Hacking
-* Cybersecurity Fundamentals
-* Web Security
-* OSINT Discipline
-* Linux Operator Workflow
-* Secure Systems Thinking
-* Privacy-first Engineering
-* Responsible Security Research
-
----
-
-## Current Mission
-
-I am building a public cybersecurity portfolio around practical learning, disciplined research, and secure digital systems.
-
-My work focuses on understanding how systems fail, documenting what matters, and improving my skills through ethical, legal, and professional cybersecurity practice.
+* Web Application Security
+* OSINT Research
+* OWASP Top 10
+* Vulnerability Assessment
+* FortiGate Security Operations
+* Network Security Basics
+* Secure Systems
+* Security Documentation
+* Risk Rating & Remediation
+* Responsible Disclosure
 
 ---
 
-## Featured Pages
+## Verified Credentials
 
-* [Alekh Verma Official Profile](https://alekhverma.vercel.app/alekh-verma)
-* [Alekh Verma Cybersecurity Portfolio](https://alekhverma.vercel.app/cybersecurity)
-* [Alekh Verma AI Profile](https://alekhverma.vercel.app/ai-profile)
-* [Cybersecurity Blog](https://alekhverma.vercel.app/blog)
-* [Contact](https://alekhverma.vercel.app/contact)
+* Fortinet Certified Associate Cybersecurity (FCA)
+* FortiGate 7.6 Operator Self-Paced — Completed with 95% score
+* Cisco Networking Academy — Introduction to Cybersecurity digital badge
+
+---
+
+## Proof of Work
+
+I maintain a public cybersecurity portfolio with verified credentials, proof-of-work pages, and a professional web security review report.
+
+My work focuses on authorized security review, OSINT discipline, vulnerability documentation, risk rating, remediation guidance, and client-safe reporting.
+
+* Portfolio: https://alekhverma.vercel.app/
+* Proof of Work: https://alekhverma.vercel.app/proof-of-work
+* Fortinet FCA Badge: https://www.credly.com/badges/d119bb9a-793f-477e-8674-62e77a5833ed/public_url
+
+---
+
+## Ethical Scope
+
+I work only on authorized, client-approved cybersecurity review.
+
+No illegal access.
+No account hacking.
+No data theft.
+No bypassing permissions.
+No unauthorized testing.
+
+---
+
+## Availability
+
+Open to remote cybersecurity internship, part-time, trainee, VAPT support, SOC trainee, OSINT research, and freelance security review/documentation opportunities.
 
 ---
 
@@ -58,11 +80,3 @@ My work focuses on understanding how systems fail, documenting what matters, and
 * X: https://x.com/official_Alekh
 * LinkedIn: https://www.linkedin.com/in/alekh-verma-12aaa3417
 * GitHub: https://github.com/officialalekh
-
----
-
-## Identity
-
-**Alekh Verma**
-Ethical Hacker & Cybersecurity Builder
-Official website: https://alekhverma.vercel.app/
