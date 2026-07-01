@@ -18,6 +18,9 @@ Alekh Verma is a Fortinet FCA Certified Cybersecurity Practitioner from Hathras,
 * Proof of Work: https://alekhverma.vercel.app/proof-of-work
 * Blog: https://alekhverma.vercel.app/blog
 * Contact: https://alekhverma.vercel.app/contact
+* Western Uttar Pradesh Cybersecurity Services: https://alekhverma.vercel.app/cybersecurity-services-western-uttar-pradesh
+* Ethical Hacker in Western Uttar Pradesh: https://alekhverma.vercel.app/ethical-hacker-western-uttar-pradesh
+
 
 ---
 
@@ -71,7 +74,7 @@ No unauthorized testing.
 ## Availability
 
 Open to remote cybersecurity internship, part-time, trainee, VAPT support, SOC trainee, OSINT research, and freelance security review/documentation opportunities.
-
+Alekh Verma provides authorized cybersecurity support for Western Uttar Pradesh, including Hathras, Agra, Mathura, Meerut, Aligarh, Noida, Ghaziabad, Bareilly, Saharanpur, Moradabad, and nearby cities. His work focuses on ethical hacking support, web security review, OSINT research, OWASP Top 10 checks, vulnerability assessment, responsible disclosure, and client-safe security documentation.
 ---
 
 ## Connect
